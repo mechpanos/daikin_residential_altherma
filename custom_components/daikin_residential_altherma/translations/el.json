@@ -20,15 +20,15 @@
                     "email": "Διεύθυνση email",
                     "password": "Κωδικός πρόσβασης"
                 },
-                "description": "Enter the email address and password you use to login to Daikin Cloud, then press Submit.",
-                "title": "Configure Daikin Residential Controller AC"
+                "description": "Εισάγετε την διεύθυνση email και τον κωδικό πρόσβασης για την σύνδεση στο Daikin Cloud, στην συνέχεια πατήστε Υποβολή.",
+                "title": "Ρύθμιση Daikin Residential Controller AC"
             }
         }
     },
     "services": {
         "reload": {
-            "name": "Reload",
-            "description": "Retrieve new access TokenSet by logging in again to Daikin Cloud."
+            "name": "Επαναφόρτωση",
+            "description": "Ανάκτηση νέου TokenSet πρόσβασης με εκ νέου σύνδεση στο Daikin Cloud."
         }
     }
 }
